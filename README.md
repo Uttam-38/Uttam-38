@@ -3,7 +3,7 @@
 **M.S. Data Science (Computing & Decision Analytics)** @ Arizona State University  
 Tempe, AZ |  Targeting **Data Science, Machine Learning, and Data Engineering Internships (Summer 2026)**
 
-I build **production-grade data and machine learning systems** — from relational and distributed data pipelines to scalable ML models — with a strong focus on **performance, correctness, and real-world applicability**.
+I build **production-grade data and machine learning systems** from relational and distributed data pipelines to scalable ML models with a strong focus on **performance, correctness, and real-world applicability**.
 
 ---
 
@@ -20,7 +20,7 @@ I build **production-grade data and machine learning systems** — from relation
   - Model evaluation, interpretability (SHAP), and performance analysis
 
 - **Analytics & Decision Systems**
-  - Large-scale data aggregation and feature engineering
+  - Large scale data aggregation and feature engineering
   - Translating data insights into measurable system or business impact
 
 ---
@@ -28,7 +28,7 @@ I build **production-grade data and machine learning systems** — from relation
 ##  Tech Stack
 
 **Languages:** Python, SQL, Scala, C++  
-**Data & ML:** Pandas, NumPy, scikit-learn, XGBoost, PyTorch  
+**Data & ML:** Pandas, NumPy, scikit learn, XGBoost, PyTorch  
 **Data Systems:** PostgreSQL, Apache Spark, RocksDB  
 **Tools:** Git, GitHub Actions, Linux, Bash  
 **Concepts:** Distributed systems, query optimization, ML evaluation, data modeling
@@ -38,27 +38,27 @@ I build **production-grade data and machine learning systems** — from relation
 ##  Featured Projects
 
 - **Relational Query Engineering**  
-  Performance-driven SQL analytics with execution-plan-guided optimization.
+  Performance driven SQL analytics with execution plan guided optimization.
 
 - **Personalized Recommendation System**  
-  Learning-to-Rank models with offline evaluation and ranking metrics.
+  Learning to Rank models with offline evaluation and ranking metrics.
 
 - **Robustness Under Distribution Shift**  
-  ML analysis focused on model reliability under real-world data drift.
+  ML analysis focused on model reliability under real world data drift.
 
 - **Distributed Spatial Queries (SparkSQL)**  
-  Large-scale spatial analytics using distributed query execution.
+  Large scale spatial analytics using distributed query execution.
 
 
 ---
 
 ##  What I'm Looking For
 
-I’m seeking opportunities to work on **real-world, production-scale data and machine learning systems**, where I can contribute to **live datasets, performance-critical pipelines, and applied modeling problems**.
+I’m seeking opportunities to work on **real world, production scale data and machine learning systems**, where I can contribute to **live datasets, performance critical pipelines, and applied modeling problems**.
 
-Currently targeting **Summer 2026 internship roles** in Data Science, Machine Learning, and Data Engineering, with an interest in long-term, high-impact work.
+Currently targeting **Summer 2026 internship roles** in Data Science, Machine Learning, and Data Engineering, with an interest in long term, high impact work.
 
-I’m especially interested in roles that work with **large-scale data, ML systems, and real production constraints**.
+I’m especially interested in roles that work with **large scale data, ML systems, and real production constraints**.
 
 ---
 
