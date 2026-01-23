@@ -3,7 +3,7 @@
 **M.S. Data Science (Computing & Decision Analytics)** @ Arizona State University  
 Tempe, AZ |  Targeting **Data Science, Machine Learning, and Data Engineering Internships (Summer 2026)**
 
-I build **production-grade data and machine learning systems** from relational and distributed data pipelines to scalable ML models with a strong focus on **performance, correctness, and real-world applicability**.
+I build **production grade data and machine learning systems** from relational and distributed data pipelines to scalable ML models with a strong focus on **performance, correctness, and real world applicability**.
 
 ---
 
@@ -12,11 +12,11 @@ I build **production-grade data and machine learning systems** from relational a
 - **Data Engineering & Systems**
   - Relational schema design, query optimization, and analytical SQL
   - Distributed data processing with Spark and scalable data pipelines
-  - Storage systems: PostgreSQL, NoSQL, and key-value stores
+  - Storage systems: PostgreSQL, NoSQL, and key value stores
 
 - **Machine Learning & Applied Science**
   - End-to-end ML systems (training → evaluation → deployment)
-  - Learning-to-Rank, recommendation systems, and robustness under distribution shift
+  - Learning to Rank, recommendation systems, and robustness under distribution shift
   - Model evaluation, interpretability (SHAP), and performance analysis
 
 - **Analytics & Decision Systems**
