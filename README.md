@@ -1,7 +1,7 @@
 # Hi, I'm Uttam
 
 **M.S. Data Science (Computing & Decision Analytics)** @ Arizona State University  
-Tempe, AZ |  Targeting **Data Science, Machine Learning, and Data Engineering Internships (Summer 2026)**
+Tempe, AZ |  Targeting **Data Science, Machine Learning, and Data Engineering Roles**
 
 I build **production grade data and machine learning systems** from relational and distributed data pipelines to scalable ML models with a strong focus on **performance, correctness, and real world applicability**.
 
