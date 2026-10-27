@@ -56,7 +56,7 @@ I build **production grade data and machine learning systems** from relational a
 
 I’m seeking opportunities to work on **real world, production scale data and machine learning systems**, where I can contribute to **live datasets, performance critical pipelines, and applied modeling problems**.
 
-Currently targeting **Summer 2026 internship roles** in Data Science, Machine Learning, and Data Engineering, with an interest in long term, high impact work.
+Currently targeting **Roles** in Data Science, Machine Learning, and Data Engineering, with an interest in long term, high impact work.
 
 I’m especially interested in roles that work with **large scale data, ML systems, and real production constraints**.
 
